@@ -1,2 +1,0 @@
-# javasc
-exercise
